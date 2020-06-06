@@ -342,32 +342,7 @@ int main()
        cout<<"cambios guardados"<<endl;
        break;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-           }
-
-              
-              
-
-              
-              
-             
+           }       
                 
 
     }
